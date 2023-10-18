@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="boxes">
+        <item name="android:layout_width">@dimen/image_dimension</item>
+        <item name="android:layout_height">@dimen/image_dimension</item>
+        <item name="android:src">@drawable/empty_piece</item>
+    </style>
+</resources>

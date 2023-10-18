@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CONECTA 4</string>
+
+    <!-- Buttons -->
+    <string name="btnPlay">JUGAR</string>
+    <string name="btnSalir">SALIR</string>
+
+    <!-- Alerts -->
+    <string name="alertError">¡ERROR!</string>
+    <string name="alertWarning">¡ALERTA!</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="win">¡VICTORIA!</string>
+
+</resources>
